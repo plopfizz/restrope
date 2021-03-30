@@ -4,7 +4,11 @@
 Website using HTML,CSS,JAVASCRIPT (Responsive)
 
 
-Some insights of the website 
+Some insights of the website
+
+
+
+
 1)THE MAIN PAGE :-
 ![Screenshot (648)](https://user-images.githubusercontent.com/50981888/113065358-5af58200-91d6-11eb-9d10-a36c92d09891.png)
 
